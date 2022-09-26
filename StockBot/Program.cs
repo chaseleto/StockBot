@@ -10,7 +10,7 @@ namespace StockBot
         public DiscordSocketClient _client;
         private CommandHandler _handler;
         public double latency;
-
+#program.cs tested
         private static void Main(string[] args)
         => new Program().StartAsync().GetAwaiter().GetResult();
 
