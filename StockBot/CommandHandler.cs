@@ -18,6 +18,9 @@ namespace StockBot
         public async Task InitializeAsync(DiscordSocketClient client)
         {
             _client = client;
+            #Hacker code
+            #hacking code 12
+                #ha
             _service = new CommandService();
             services = new ServiceCollection()
                .AddSingleton(_client)
