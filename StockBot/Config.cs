@@ -9,8 +9,7 @@ namespace StockBot
 {
     public class Config
     {
-        #testing13
-          #testing14
+       JETSIOJESOITJIOSEJTIOSEJTIOESJTIOSEJTIOSEJIOT
         private const string configFile = "Config.json";
         private const string configFolder = "Resources";
         public static string path = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
