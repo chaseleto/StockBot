@@ -27,7 +27,7 @@ namespace StockBot.Modules
         {
             char[] array = s.ToCharArray();
             Array.Reverse(array);
-            console.log("delete this");
+    
             return new string(array);
         }
     }
