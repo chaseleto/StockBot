@@ -33,7 +33,7 @@ namespace StockBot
 #program9
         private async Task Log(LogMessage msg)
         {
-           
+           console.log("check")
             Console.WriteLine(msg.Message);
         }
     }
